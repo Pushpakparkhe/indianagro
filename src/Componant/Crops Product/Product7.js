@@ -7,17 +7,17 @@ import "./../../Componant/Crops Product/Product1.css"
         <div>
         <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nitro-12.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/nitro-5.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Yellowing of older leaves.</li>
+            <li>The leaves turn uniformly pale green colour. The oldest leaves on the bottom show yellow discolouration and subsequent necrosis proceeding from the leaf tip to mid rib.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Growth was stunted.</li>
+            <li>Affected plants show stunted, sparse growth.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -45,17 +45,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-7.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/phos-3.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Phosphorous Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Reddish purplish colour of older leaves.</li>
+            <li>Leaf margins, veins and stems show purple tints which may spread over the whole blade. Older leaves of the young plants are affected first.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Premature leaf fall, proper root development is not there.</li>
+            <li>The reddish discolouration is usually visible in the juvenile stage only.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -82,17 +82,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/pot.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/potas.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-2">Potassium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Older leaves turn into thick green colour,burning of leaf margins.</li>
+            <li>Dark green plants with chlorosis along the leaf margins developing to brown striping and necrosis. The cobs becomes narrowed and peaked.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Necrotic spots appear on the tip of older leaves.</li>
+            <li>Grains in the cob tips are only poorly filed.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -118,17 +118,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/phos-7-1.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/cal-2.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Calcium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Tips of youngest leaves become white,rolled and curled.</li>
+            <li>Symptoms starts from the younger leaves. Leaf tips show light green or whitish spots or streaky lesions and are often hooked back.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Stunting and death of growing point during extreme deficiency.</li>
+            <li>Younger leaves were effected.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -155,17 +155,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul-7.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/sul-3.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Sulphur Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Yellowing of younger leaves.</li>
+            <li>Plant shows stunted, erect growth. Seen from a distance, younger leaves are coloured uniformly pale, but when you look at them closely, it’s rather an intervenial chlorosis.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Flavour is reduced.</li>
+            <li>Stunted growth.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -192,17 +192,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/mag-6.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/mag-2.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success ">Magnesium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Interveinal chlorosis.</li>
+            <li>Leaves show advanced interveinal chlorosis, necrotic edges. In severe cases it leads to shortening of the internodes.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Plants are pale coloured.</li>
+            <li>Purpling of older leaves.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -225,17 +225,17 @@ import "./../../Componant/Crops Product/Product1.css"
          
        <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/boron-9.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/boron-5.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Boron Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>White and rolled leaf tips of young leaves.</li>
+            <li>Symptoms expressed as shortening of internodal and results in transparent necrotic spots. Lack of boron deficiency will results in smaller cobs.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Reduction in plant height,death of growing points.</li>
+            <li>Death of growing points.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -259,17 +259,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/zinc-10.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/zinc-6.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Zinc Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Brown colour spots,uneven leaf lamina.</li>
+            <li>White to pale yellow bands in the lower half of the leaf which advance to pale brown or grey necrosis.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Growth is stunted,shortening of internodes.</li>
+            <li>Pale green plants.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -294,17 +294,17 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/iron-13.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/iron-8.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Iron Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Leaves become white in colour.</li>
+            <li>Plants show chlorotic leaves with interveinal stripes. When the deficiency becomes severe the veins also become chlorotic and the plant growth is stunted.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Interveinal chlorosis.</li>
+            <li>Symptoms start on younger leaves.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
@@ -328,106 +328,40 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/copper-4.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/man-3.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
-            <h2 class="text-success mt-4">Copper Deficiency</h2>
+            <h2 class="text-success mt-4"> Manganese Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Pale greyish green interveinal chlorosis spreads from tip of leaf base.</li>
+            <li>Necrosis occurs on the older or younger leaves. Cob development will be irregular, often showing empty tips or diverse kernel size, as well as bent cobs</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Newly emerging leaves short,narrow and light green,plants shorter.</li>
+            <li>Less tightly packed kernel.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Phosphocop 2-3ml/lit</p>
+            <p>Mn-chel- 1-2 ml/lit of water or mobomin 1 gm/lit of water</p>
             <li>Soil/Drip</li>
-            <p>--</p>
+            <p>Agromin soil plus-5kgs/acre ( soil application)</p>
             <li>Benefit</li>
-            <p>Serves to intensify flavour and colour in vegetables and colour in flowers</p>
-           </ul>
-        </div>
-        <div class="right-card1">
-            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/12/Phosphocop-300x300.png" alt=".."/>
-            <div class="productname">
-                <h2>Phosphocop</h2>
-                <button>REDE MORE</button>
-            </div>
-
-        </div>
-    </div>
-
-    <div class="mainbox1">
-        <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/man-6.jpg" alt=".."/>
-        </div>
-         <div class="middle-card1 ps-4">
-            <h2 class="text-success mt-3">Manganese Deficiency</h2>
-           <h3>Symptoms</h3>
-           <ul>
-            <li>Interveinal chlorosis of young leaves.</li>
-           </ul>
-           <h3>Affect</h3>
-           <ul>
-            <li>plant growth may be reduced and stunted.</li>
-           </ul>
-           <h3>Solution</h3>
-           <ul>
-            <li>Product</li>
-            <p>Mn-chel- 1-2 ml/lit of water or mobomin 1 gm/lit of water </p>
-            <li>Soil/Drip</li>
-            <p>--</p>
-            <li>Benefit</li>
-            <p>Helps in nitrogen metabolism and involves in photosynthetic activity</p>
+            <p>It involves wide range of enzymes process inlude hormone synthesis</p>
            </ul>
         </div>
         <div class="right-card1">
             <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/mnchel-3-300x298.png" alt=".."/>
             <div class="productname">
-                <h2>Mn-Chel</h2>
+                <h2>mnchel</h2>
                 <button>REDE MORE</button>
             </div>
 
         </div>
     </div>
 
-
-    <div class="mainbox1">
-        <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/moly.jpg" alt=".."/>
-        </div>
-         <div class="middle-card1 ps-4">
-            <h2 class="text-success mt-4">Molybdenum Deficiency</h2>
-           <h3>Symptoms</h3>
-           <ul>
-            <li>Older leaves become abnormal in shape where as younger ones remain same.</li>
-           </ul>
-           <h3>Affect</h3>
-           <ul>
-            <li>Older leaves exhibit chlorosis with interveinal necrotic spots.</li>
-           </ul>
-           <h3>Solution</h3>
-           <ul>
-            <li>Product</li>
-            <p>Mobomin 1.5-2gm/lit</p>
-            <li>Soil/Drip</li>
-            <p>--</p>
-            <li>Benefit</li>
-            <p>Helps in nitrogen metabolism</p>
-           </ul>
-        </div>
-        <div class="right-card1">
-            <img class="productimg1-1" src="https://ariesagro.com/wp-content/uploads/2022/11/mobomin-1-300x300.png" alt=".."/>
-            <div class="productname">
-                <h2>Mobomin</h2>
-                <button>REDE MORE</button>
-            </div>
-
-        </div>
-    </div>
+    
+    
         </div>
     )
     

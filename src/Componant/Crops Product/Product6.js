@@ -191,26 +191,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/mag-11.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/magnesium.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success ">Magnesium Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Bright yellow wedge shaped extends inward between the veins on older leaves.</li>
+            <li>Interveinal chlorosis.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>When severe,necrosis extends inwards from the leaf margin and fruit cluster and stem necrosis.</li>
+            <li>Plants are pale coloured.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Magmix 4-5gm/lit, zinc mag 3-5ml/lit</p>
+            <p>Magmix 4-5gm/lit, zinc mag 3-5ml/lit, Fertisol 3-5gm/lit</p>
             <li>Soil/Drip</li>
-            <p>--</p>
+            <p>Ferromag 5kg/acre</p>
             <li>Benefit</li>
-            <p>Maximise photosynthetic activity,increase growth and berry development</p>
+            <p>Helps in photosynthesis,starch translocation</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -224,26 +224,26 @@ import "./../../Componant/Crops Product/Product1.css"
          
        <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/boron-10.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/boron.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Boron Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Shoot tip death and short internodes resulting in shoots with zigzag appearance.</li>
+            <li>White and rolled leaf tips of young leaves.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Fruit set is often poor and breaking of berry.</li>
+            <li>White and rolled leaf tips of young leaves.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
             <p>Boron 20 1gm/lit, Potabor super-2-3gm/lit</p>
             <li>Soil/Drip</li>
-            <p>Boron -20 1 kg/acre</p>
+            <p>Orgabor 5-10 Kg /Acre</p>
             <li>Benefit</li>
-            <p>Ensures good shoot growth and strong fruit set,improve berry shape and size</p>
+            <p>Translocation of sugars and help in pollination</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -258,26 +258,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/zinc-14.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/zinc-2.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-3">Zinc Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Short internodes,resulting in shoot with a zigzag appearance.</li>
+            <li>Brown colour spots.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Small and poorly developed branches.</li>
+            <li>Growth is stunted,shortening of internodes.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Chelamin plus1.5gm/lit or chelamin gold 0.5gm/lit</p>
+            <p>Chelamin plus 1-2gm/lit</p>
             <li>Soil/Drip</li>
             <p>Chelamin gold 0.5kg/acre</p>
             <li>Benefit</li>
-            <p>Increases sucrose content in grapes and formation of healthy berries.</p>
+            <p>Helps in activation of enzymes</p>
            </ul>
         </div>
         <div class="right-card1">
@@ -293,26 +293,26 @@ import "./../../Componant/Crops Product/Product1.css"
 
     <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/sul-10.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/iron.jpg" alt=".."/>
         </div>
          <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Iron Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Young leaves show interveinal chlorosis.</li>
+            <li>Leaves become white in colour.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Leaves are lightly to be very pale with necrotic blotches.</li>
+            <li>Interveinal chlorosis.</li>
            </ul>
            <h3>Solution</h3>
            <ul>
             <li>Product</li>
-            <p>Chelafer1.5gm/lit, agrofer-1.5gm/lit</p>
+            <p>Chelafer1-2gm/lit, Agrofer-1-2gm/lit</p>
             <li>Soil/Drip</li>
             <p>Ferromag 5kg/acre, Ferromix-5kg/acre</p>
             <li>Benefit</li>
-            <p>Strengthening leaf development and vine productivity</p>
+            <p>Helps in electron transport chain and helps in photosynthesis</p>
            </ul>
         </div>
         <div class="right-card1">

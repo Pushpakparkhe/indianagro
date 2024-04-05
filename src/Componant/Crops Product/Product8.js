@@ -7,17 +7,17 @@ import "./../../Componant/Crops Product/Product1.css"
         <div>
         <div class="mainbox1">
         <div class="left-card1">
-            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/11/nitrogene-1.jpg" alt=".."/>
+            <img class="productimg1" src="https://ariesagro.com/wp-content/uploads/2022/12/nitro-4.jpg" alt=".."/>
         </div>
         <div class="middle-card1 ps-4">
             <h2 class="text-success mt-4">Nitrogen Deficiency</h2>
            <h3>Symptoms</h3>
            <ul>
-            <li>Yellowing of older leaves.</li>
+            <li>Plants are stunted and older leaves turn into light yellow colour.</li>
            </ul>
            <h3>Affect</h3>
            <ul>
-            <li>Stunted growth with few vegetative fruiting branches.</li>
+            <li>Stunted growth with few vegetative fruit</li>
            </ul>
            <h3>Solution</h3>
            <ul>

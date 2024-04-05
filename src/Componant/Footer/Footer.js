@@ -3,8 +3,8 @@ import './../../Componant/Footer/Footer.css'
 import logoimg from "./../assets/kpng1.png"
 function Footer () {
     return (
-      <div>
-        <div class="container my-2">
+      <div id="container">
+        <div class="container ">
         <footer class="text-center text-lg-start text-white ">
           <div class="container p-4 pb-0">
             <section class="">
@@ -60,7 +60,7 @@ function Footer () {
             
                 <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
                   <h6 class="text-uppercase mb-4  ">Contact</h6>
-                  <p class="text-black"><i class="fas fa-home mr-3"></i> KisanSeva limited, Nagpure, Maharastra</p>
+                  <p class="text-black"><i class="fas fa-home mr-3"></i> KisanSeva limited, Nagpur, Maharastra</p>
                   <p class="text-black"><i class="fas fa-envelope  mr-3"></i> KisanSeva@gmail.com</p>
                   <p class="text-black"><i class="fas fa-phone  mr-3"></i> + 91 234 567 88</p>
                   <p class="text-black"><i class="fas fa-print mr-3"></i> + 91 234 567 89</p>

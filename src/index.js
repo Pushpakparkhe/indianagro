@@ -38,6 +38,7 @@ import Cauliflower from'./view/Crops/Cauliflower';
 import Chilli from './view/Crops/Chilli';
 import Turmeric from'./view/Crops/Turmeric';
 import Ginger from'./view/Crops/Ginger';
+import Sugercaneseed from './view/Products buy/Sugercane seed';
 const router = createBrowserRouter([
   
   {
@@ -91,6 +92,10 @@ const router = createBrowserRouter([
   {
     path: '/sugercane',
     element: <Sugercane />
+  },
+  {
+    path: '/sugercaneseed',
+    element: <Sugercaneseed />
   },
   {
     path: '/login',

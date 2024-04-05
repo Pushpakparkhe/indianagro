@@ -1,0 +1,25 @@
+.card-cantain{
+    display:grid;
+      grid-template-columns: auto auto ;
+      justify-content: center;
+}
+.head-line{
+    margin-left: 80px;
+    margin-top: 70px;
+    color: rgb(109, 109, 105);
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card1-img{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border: solid;
+    border-color: rgb(193, 199, 199);
+    border-radius: 20% 0% 20% 0%;
+}
+.card-cantain{
+position: relative;
+}

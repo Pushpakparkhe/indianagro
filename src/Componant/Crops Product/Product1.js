@@ -1,5 +1,5 @@
 import React from "react"
-import "./../../Componant/Crops Product/Product1.css"
+import "./../../Componant/Crops Product/Product1.css";
 
  function Product1()  {
     return(
@@ -25,7 +25,7 @@ import "./../../Componant/Crops Product/Product1.css"
         </div>
         <div class="middle-card">
             <img class="productimg" src="https://ariesagro.com/wp-content/uploads/2022/11/Canemin-product-1.png" alt=".."/>
-           <button class="ms-5">REDE MORE</button>
+           <a href="card1"><button class="ms-5">BUY NOW</button></a>
         </div>
         <div class="right-card">
             <h2>CONTENTS</h2>
