@@ -13,18 +13,18 @@ import Infrastracture from './view/About us/Infrastracture';
 import Hydroponic from './view/About us/Hydroponic';
 import Blogsvideo from './view/About us/Blogs&video';
 import Contactus from './view/Contact us/Contactus';
-import Login from './view/My Account/Log-in';
-import Signin from './view/My Account/Sign-in';
+
 import Sugercane from './view/Crops/Sugercane';
 import Grapes from './view/Crops/Grapes';
-import Coffee from'./view/Crops/Coffee';
-import Cotton from'./view/Crops/Cotton';
+import Coffee from './view/Crops/Coffee';
+import Cotton from './view/Crops/Cotton';
 import Wheat from './view/Crops/Wheat';
-import Paddy from'./view/Crops/Paddy';
-import Maize from'./view/Crops/Maize';
-import Groundnut from'./view/Crops/Groundnut';
+import Paddy from './view/Crops/Paddy';
+import Maize from './view/Crops/Maize';
+import Groundnut from './view/Crops/Groundnut';
+import Login from './Componant/login/login';
 const router = createBrowserRouter([
-  
+
   {
     path: '/',
     element: <Home />
@@ -47,7 +47,7 @@ const router = createBrowserRouter([
   },
   {
     path: '/fertilizer',
-    element: <Fertilizer/>
+    element: <Fertilizer />
   },
   {
     path: '/plantprotection',
@@ -63,11 +63,11 @@ const router = createBrowserRouter([
   },
   {
     path: '/hydroponic',
-    element: <Hydroponic/>
+    element: <Hydroponic />
   },
   {
     path: '/blogsvideo',
-    element: <Blogsvideo/>
+    element: <Blogsvideo />
   },
   {
     path: '/contactus',
@@ -77,14 +77,8 @@ const router = createBrowserRouter([
     path: '/sugercane',
     element: <Sugercane />
   },
-  {
-    path: '/login',
-    element: <Login />
-  },
-  {
-    path: '/signin',
-    element: <Signin />
-  },
+  
+  
   {
     path: '/grapes',
     element: <Grapes />
@@ -95,7 +89,7 @@ const router = createBrowserRouter([
   },
   {
     path: '/cotton',
-    element: <Cotton/>
+    element: <Cotton />
   },
   {
     path: '/wheat',
@@ -103,7 +97,7 @@ const router = createBrowserRouter([
   },
   {
     path: '/paddy',
-    element: <Paddy/>
+    element: <Paddy />
   },
   {
     path: '/maize',
@@ -111,13 +105,18 @@ const router = createBrowserRouter([
   },
   {
     path: '/groundnut',
-    element: <Groundnut/>
+    element: <Groundnut />
+  }
+  ,
+  {
+    path: '/login',
+    element: <Login />
   }
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-     <RouterProvider router={router} />
+    <RouterProvider router={router} />
   </>
 );
