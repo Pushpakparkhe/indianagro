@@ -39,6 +39,9 @@ import Chilli from './view/Crops/Chilli';
 import Turmeric from'./view/Crops/Turmeric';
 import Ginger from'./view/Crops/Ginger';
 import Sugercaneseed from './view/Products buy/Sugercane seed';
+
+
+
 const router = createBrowserRouter([
   
   {
@@ -195,9 +198,11 @@ const router = createBrowserRouter([
   }
 ]);
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
      <RouterProvider router={router} />
   </>
+
 );
